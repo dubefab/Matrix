@@ -1,6 +1,6 @@
 # MATRIX THEME for Obsidian
 
-A neon-green, cyberpunk Matrix-inspired theme for Obsidian with Live Preview parity, always-on animated H1/inline title glow, and cohesive styling across links, blockquotes, code, tables, and more. Ships with dark and light variants.
+A neon-green, cyberpunk Matrix-inspired theme for Obsidian with Live Preview parity, always-on animated H1/inline title glow, and cohesive styling across links, blockquotes, code, tables, and more.
 
 ![Matrix Theme screenshot](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SCR-20250807-rqus-AcoictKbzaOc4V2UsvJBUCUiRksYug.png)
 
