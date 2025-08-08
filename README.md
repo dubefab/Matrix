@@ -16,9 +16,4 @@ A neon-green, cyberpunk Matrix-inspired theme for Obsidian with Live Preview par
 - Tables, tags, inputs, menus, tabs, Dataview, and Mermaid colors aligned to theme variables
 - Light and dark modes included
 - Optional “digital rain” overlay
-
-
-## Options
-
-- Digital Rain overlay (opt‑in): the CSS includes a selector that enables rain when the `matrix-rain-on` class is present on `<body>`. Add that class via a community plugin (e.g., Style Settings or Custom Classes). To keep the rain always on, you can replace the selector in the CSS from `\.matrix-rain-on .workspace::before` to `body .workspace::before`.
-
+- Style Setting to enable Digital Rain overlay
