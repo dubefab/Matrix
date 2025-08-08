@@ -11,6 +11,4 @@ A neon-green, cyberpunk Matrix-inspired theme for Obsidian with Live Preview par
 - Link glow on hover with underline and offset
 - Code blocks styled as a “MATRIX TERMINAL” with mono font and chromatic glow
 - Tables, tags, inputs, menus, tabs, Dataview, and Mermaid colors aligned to theme variables
-- Light and dark modes included
-- Optional “digital rain” overlay
-- Style Setting to enable Digital Rain overlay
+- Use Style Settings plugin to enable Digital Rain overlay
