@@ -17,34 +17,8 @@ A neon-green, cyberpunk Matrix-inspired theme for Obsidian with Live Preview par
 - Light and dark modes included
 - Optional “digital rain” overlay
 
-## Install
-
-Option A — Obsidian UI
-- Settings → Appearance → Themes → Manage
-- Import theme and select `Matrix Theme`
-
-Option B — Manual
-- Create folder: `.obsidian/themes/matrix-theme`
-- Save `theme.css` into that folder
-- Settings → Appearance → Themes → choose “Matrix Theme”
 
 ## Options
 
 - Digital Rain overlay (opt‑in): the CSS includes a selector that enables rain when the `matrix-rain-on` class is present on `<body>`. Add that class via a community plugin (e.g., Style Settings or Custom Classes). To keep the rain always on, you can replace the selector in the CSS from `\.matrix-rain-on .workspace::before` to `body .workspace::before`.
 
-- Live Preview blockquote fallback: the editor blockquote grouping uses `:has()` for the cleanest look. If your environment doesn’t support `:has`, a commented fallback is included in the CSS. Search for “fallback” and uncomment it.
-
-## Compatibility
-
-- Target: Obsidian 1.5+ (CM6)
-- Uses modern CSS features (`color-mix`, `:has`, custom properties). Older engines gracefully degrade.
-
-## Contributing
-
-Issues and PRs are welcome:
-- Report mismatches between Reading view and Live Preview
-- Suggest refinements for nested blockquotes, headings rhythm, or accessibility
-
-## License
-
-MIT
