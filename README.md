@@ -6,9 +6,6 @@ A neon-green, cyberpunk Matrix-inspired theme for Obsidian with Live Preview par
 
 ## Features
 
-- Live Preview parity
-  - Headings h1–h6 mirror Reading view colors, weights, and spacing
-  - Blockquotes in editor match Reading view (background, border-left, radius, shadow)
 - Cyberpunk title effect
   - Always-on animated gradient/sheen for `h1` and `.inline-title` with subtle pulse and glow
 - Link glow on hover with underline and offset
